@@ -1,7 +1,7 @@
 package com.llm.pojo;
 
 import lombok.Data;
-import java.io.Serializable;
+
 @Data
 public class Result {
     private Integer code;
