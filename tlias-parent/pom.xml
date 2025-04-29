@@ -10,6 +10,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+    <modules>
+        <module>../tlias-pojo</module>
+        <module>../tlias-utils</module>
+        <module>../tlias-web-management</module>
+    </modules>
+
     <groupId>com.llm</groupId>
     <artifactId>tlias-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
