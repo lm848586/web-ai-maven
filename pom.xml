@@ -7,6 +7,10 @@
     <groupId>com.llm</groupId>
     <artifactId>web-ai-github</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>tlias-parent</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
